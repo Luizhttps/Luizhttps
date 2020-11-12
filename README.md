@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Luiz! 👋
 
 ## I'm a Developer!
-- 🥅 2020 Goals: Contribute more to Open Source projects
+<!-- - 🥅 2020 Goals: Contribute more to Open Source projects -->
 <!-- - ⚡ Fun fact: I play the drums! -->
 
 ### Connect with me:
