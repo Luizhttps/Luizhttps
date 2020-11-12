@@ -6,7 +6,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Luizhttps | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/luiz-otavio-mendes-327a37190)
-[<img align="left" alt="Luizhttps | Email" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/mail-dot-ru.svg" />](lotavio18@icloud.com)
+[<img align="left" alt="Luizhttps | Email" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/mail-dot-ru.svg" />](mailto:lotavio18@icloud.com)
 [<img align="left" alt="Luizhttps | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/kinzin_luiz)
 [<img align="left" alt="Luizhttps | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://api.whatsapp.com/send?phone=+5535997394500)
 
