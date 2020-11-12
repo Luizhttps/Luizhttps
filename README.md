@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Luiz! 👋
 
 ## I'm a Developer!
-<!-- -  -->
+- Computer engineer 💻 
 
 ### Connect with me:
 
