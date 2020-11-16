@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Luiz! 👋
 
 ## I'm a Developer!
-- Computer engineer 💻 
+- Graduating in computer engineering 💻 
 
 ### Connect with me:
 
