@@ -15,8 +15,8 @@
 <img align="left" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" height="28px" src="https://user-images.githubusercontent.com/69612875/99216294-17b0ee80-27b4-11eb-8f81-eb9fa1c7a6ae.png"/>
 <img align="left" height="28px" src="https://user-images.githubusercontent.com/69612875/98977302-3b93dc00-24f7-11eb-8990-e28b1295d105.png"/>
-<img align="left" height="28px" src="https://user-images.githubusercontent.com/69612875/98892374-f59b3180-247e-11eb-836c-4a550cfcae61.png"/>
-<img align="left" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
+<img align="left" height="31px" src="https://user-images.githubusercontent.com/69612875/98892374-f59b3180-247e-11eb-836c-4a550cfcae61.png"/>
+<img align="left" height="31px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 <img align="left" height="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
 <img align="left" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
 <br />
