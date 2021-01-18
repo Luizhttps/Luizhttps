@@ -27,7 +27,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizhttps&theme=auto&hide_border=true)
 
 ## 📬 **Contact Me**
-[<img align="left" alt="Luizhttps | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/luiz-otavio-mendes-327a37190)
-[<img align="left" alt="Luizhttps | Email" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/mail-dot-ru.svg" />](mailto:lotavio18@unifei.edu.br)
-[<img align="left" alt="Luizhttps | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/luizmendes.st)
-[<img align="left" alt="Luizhttps | Whatsapp" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://api.whatsapp.com/send?phone=+5535997394500)
+[<img align="left" alt="Luizhttps | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/luiz-otavio-mendes-327a37190)
+[<img align="left" alt="Luizhttps | Email" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/mail-dot-ru.svg" />](mailto:lotavio18@unifei.edu.br)
+[<img align="left" alt="Luizhttps | Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/luizmendes.st)
+[<img align="left" alt="Luizhttps | Whatsapp" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://api.whatsapp.com/send?phone=+5535997394500)
