@@ -1,8 +1,7 @@
 # **👋 Hi there 👋 <br> My name is Luiz Otávio!**
 
 ## 📌 **About me**
-- I'm a Developer! Graduating in Computer Engineering at the Federal University of Itajubá (UNIFEI) - Itabira campus 
-<br />
+- Graduating in Computer Engineering at the Federal University of Itajubá (UNIFEI) - Itabira campus 
 
 ## 🛠 **Languages and Tools**
 <img align="left" height="28px" src="https://user-images.githubusercontent.com/69612875/98893930-6001a100-2482-11eb-80c4-9fd6b3579027.png"/>
@@ -15,17 +14,12 @@
 <img align="left" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
 <br />
 
+<img align="left" alt="Luizhttps's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luizhttps&show_icons=true&hide_border=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizhttps)](https://github.com/luizhttps)
+
 ## 📬 **How to reach me**
 [<img align="left" alt="Luizhttps | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/luiz-otavio-mendes-327a37190)
 [<img align="left" alt="Luizhttps | Email" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/mail-dot-ru.svg" />](mailto:lotavio18@unifei.edu.br)
 [<img align="left" alt="Luizhttps | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/luizmendes.st)
 [<img align="left" alt="Luizhttps | Whatsapp" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://api.whatsapp.com/send?phone=+5535997394500)
-<br />
-
-<img align="left" alt="Luizhttps's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luizhttps&show_icons=true&hide_border=true" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizhttps)](https://github.com/luizhttps)
-
-
-[instagram]: https://instagram.com/luizmendes.st
-[linkedin]: https://linkedin.com/in/luiz-otavio-mendes-327a37190
