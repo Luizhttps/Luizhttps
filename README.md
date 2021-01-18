@@ -2,7 +2,7 @@
 <h1 align="center"><strong> 👋 Hi there 👋 <br> My name is Luiz Otávio! </strong></h1>
 
 ## 📌 **About Me**
-- Graduating in Computer Engineering at the Federal University of Itajubá (UNIFEI) - Itabira campus 
+- Graduating in Computer Engineering at the Federal University of Itajubá - UNIFEI (Itabira, MG)
 - I am 20 years old
 
 ## 📚 I’m Currently Learning
