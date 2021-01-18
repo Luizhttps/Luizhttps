@@ -1,6 +1,6 @@
 # **👋 Hi there 👋 <br> My name is Luiz Otávio!**
 
-## 📌 **About me**
+## 📌 **About Me**
 - Graduating in Computer Engineering at the Federal University of Itajubá (UNIFEI) - Itabira campus 
 
 ## 🛠 **Languages and Tools**
@@ -15,11 +15,11 @@
 <br />
 <br />
 
-<img align="left" alt="Luizhttps's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luizhttps&show_icons=true&hide_border=true" />
+## 🏆 **My GitHub Stats**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizhttps&show_icons=true&theme=auto)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizhttps&theme=auto)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizhttps)](https://github.com/luizhttps)
-
-## 📬 **How to reach me**
+## 📬 **Contact Me**
 [<img align="left" alt="Luizhttps | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/luiz-otavio-mendes-327a37190)
 [<img align="left" alt="Luizhttps | Email" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/mail-dot-ru.svg" />](mailto:lotavio18@unifei.edu.br)
 [<img align="left" alt="Luizhttps | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/luizmendes.st)
