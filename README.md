@@ -1,5 +1,5 @@
-<h1 align="center"><b>👋 Hi there 👋 <br> My name is Luiz Otávio!</b></h1>
 <!-- # **👋 Hi there 👋 <br> My name is Luiz Otávio!** -->
+<h1 align="center"><strong> 👋 Hi there 👋 <br> My name is Luiz Otávio! </strong></h1>
 
 ## 📌 **About Me**
 - Graduating in Computer Engineering at the Federal University of Itajubá (UNIFEI) - Itabira campus 
