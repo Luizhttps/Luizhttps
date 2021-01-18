@@ -16,8 +16,8 @@
 <br />
 
 ## 🏆 **My GitHub Stats**
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizhttps&show_icons=true&theme=auto)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizhttps&theme=auto)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizhttps&show_icons=true&theme=auto&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizhttps&theme=auto&hide_border=true)
 
 ## 📬 **Contact Me**
 [<img align="left" alt="Luizhttps | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/luiz-otavio-mendes-327a37190)
