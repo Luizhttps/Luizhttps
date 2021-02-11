@@ -8,7 +8,7 @@
 ## 📚 I’m Currently Learning
 - Front-End with HTML, CSS, JS, ReactJS
 - IOS Developer with Swift
-- UI/UX Design using Figma and AdobeXD
+- C++ Program Developer
 
 ## 🛠 **Languages and Tools**
 <img align="left" height="28px" src="https://user-images.githubusercontent.com/69612875/98893930-6001a100-2482-11eb-80c4-9fd6b3579027.png"/>
