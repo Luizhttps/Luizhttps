@@ -6,7 +6,7 @@
 - I am 20 years old
 
 ## 📚 I’m Currently Learning
-- Front-End with HTML, CSS, JS, ReactJS
+- Front-End with HTML, CSS, SASS, JS, ReactJS
 - IOS Developer with Swift
 - C++ Program Developer
 
