@@ -14,11 +14,11 @@
 <img align="left" height="30px" src="https://user-images.githubusercontent.com/69612875/98893930-6001a100-2482-11eb-80c4-9fd6b3579027.png"/>
 <img align="left" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" height="30px" src="https://user-images.githubusercontent.com/69612875/99216294-17b0ee80-27b4-11eb-8f81-eb9fa1c7a6ae.png"/>
-<img align="left" height="30px" src="https://user-images.githubusercontent.com/69612875/98977302-3b93dc00-24f7-11eb-8990-e28b1295d105.png"/>
-<img align="left" height="30px" src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1613021462~hmac=85ce26f8e8a0af37d6bcc482f81a38c1"/>
-<img align="left" height="30px" src="https://www.flaticon.com/svg/vstatic/svg/136/136528.svg?token=exp=1613021377~hmac=8b6ba64faef73f3657c015613afbb351"/>
-<img align="left" height="30px" src="https://www.flaticon.com/svg/vstatic/svg/136/136527.svg?token=exp=1613021411~hmac=e4b0841a39da4267e56108a0663fa055"/>
-<img align="left" height="30px" src="https://www.flaticon.com/svg/vstatic/svg/136/136530.svg?token=exp=1613021432~hmac=3c310578d37720ffddbe1425eee8a748"/>
+<img align="left" height="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/82c259d214eaf0bb45ef8789e842f0b65bbc3b3d/icons/cplusplus.svg"/>
+<img align="left" height="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/82c259d214eaf0bb45ef8789e842f0b65bbc3b3d/icons/html5.svg"/>
+<img align="left" height="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/82c259d214eaf0bb45ef8789e842f0b65bbc3b3d/icons/css3.svg"/>
+<img align="left" height="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/82c259d214eaf0bb45ef8789e842f0b65bbc3b3d/icons/javascript.svg"/>
+<img align="left" height="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/82c259d214eaf0bb45ef8789e842f0b65bbc3b3d/icons/java.svg"/>
 <img align="left" height="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
 <img align="left" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
 <br />
