@@ -1,4 +1,3 @@
-<!-- # **👋 Hi there 👋 <br> My name is Luiz Otávio!** -->
 <h1 align="center"><strong> 👋 Hi there 👋 <br> My name is Luiz Otávio! </strong></h1>
 
 ## 📌 **About Me**
@@ -26,8 +25,8 @@
 <br />
 
 ## 🏆 **My GitHub Stats**
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizhttps&show_icons=true&theme=auto&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizhttps&theme=auto&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizhttps&show_icons=true&theme=dracula&border=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizhttps&show_icons=true&theme=dracula&border=false&layout=compact)
 
 ## 📬 **Contact Me**
 [<img align="left" alt="Luizhttps | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/luiz-otavio-mendes-327a37190)
