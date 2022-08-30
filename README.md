@@ -29,6 +29,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizhttps&show_icons=true&theme=dracula&border=false&layout=compact)
 
 ## 📬 **Contact Me**
-[<img align="left" alt="Luizhttps | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/luiz-otavio-mendes-327a37190)
+[<img align="left" alt="Luizhttps | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/luiz-otavio-mendes)
 [<img align="left" alt="Luizhttps | Email" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/mail-dot-ru.svg" />](mailto:lotavio18@icloud.com)
 [<img align="left" alt="Luizhttps | Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/luizmendes.st)
