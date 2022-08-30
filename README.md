@@ -2,7 +2,7 @@
 
 ## 📌 **About Me**
 - Graduating in Computer Engineering at the Federal University of Itajubá - UNIFEI (Itabira, MG).
-- I am 21 years old.
+- I am 22 years old.
 
 ## 📚 I’m Currently Learning
 - Front-End with HTML, CSS, SASS, JS, ReactJS.
