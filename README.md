@@ -5,8 +5,8 @@
 - I am 22 years old.
 
 ## 📚 I’m Currently Learning
-- Front-End with HTML, CSS, SASS, JS, ReactJS.
-- Back-End with Java (Spring Boot).
+- Front-End with HTML, CSS, SASS, JS, ReactJS, Angular.
+- Back-End with Java (Spring Boot) and NodeJs.
 - C++ Program Developer.
 
 ## 🛠 **Languages and Tools**
@@ -31,4 +31,4 @@
 ## 📬 **Contact Me**
 [<img align="left" alt="Luizhttps | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/luiz-otavio-mendes)
 [<img align="left" alt="Luizhttps | Email" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/mail-dot-ru.svg" />](mailto:lotavio18@icloud.com)
-[<img align="left" alt="Luizhttps | Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/luizmendes.st)
+
