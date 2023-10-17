@@ -40,7 +40,7 @@
 
 <h4>Tools</h4>
 <span>
-  <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"/>
+  <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-005ba4?style=for-the-badge&logoColor=white&logo=visual-studio-code"/>
   <img alt="IntelliJ" src="https://img.shields.io/badge/-IntelliJ-333333?style=for-the-badge&logo=intellij-idea&logoColor=007ACC"/>
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-333333?style=for-the-badge&logo=figma"/>
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-e05320?style=for-the-badge&logoColor=white&logo=postman"/>
