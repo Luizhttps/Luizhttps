@@ -15,7 +15,6 @@
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-333333?style=for-the-badge&logoColor=61dafb&logo=react"/>
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logoColor=white&logo=angular"/>
   <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logoColor=white&logo=redux"/>
-  <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logoColor=white&logo=react-router"/>
 </span>
 
 <h4>Back-end and Database</h4>
