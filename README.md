@@ -25,9 +25,14 @@
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logoColor=white&logo=springboot"/>
   <img alt="NodeJS" src="https://img.shields.io/badge/Node.JS-43853D?style=for-the-badge&logoColor=white&logo=nodedotjs"/>
   <img alt="Express.JS" src="https://img.shields.io/badge/Express.JS-404D59?style=for-the-badge&logoColor=white&logo=express"/>
+</span>
+
+<h4>Database</h4>
+<span>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logoColor=white&logo=mysql"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logoColor=white&logo=postgresql"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logoColor=white&logo=mongodb"/>
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logoColor=white&logo=firebase"/>
 </span>
 
 <h4>DevOps</h4>
@@ -63,13 +68,13 @@
 <h3>📬 Contact Me</h3>
 <span>
   <a target="_blank" href="https://www.linkedin.com/in/luiz-otavio-mendes">
-    <img alt="Linkedin" src="https://img.shields.io/badge/-luiz--otavio--mendes-0077B5?style=for-the-badge&logoColor=white&logo=Linkedin&link=https://www.linkedin.com/in/luiz-otavio-mendes"/>
+    <img alt="Linkedin" src="https://img.shields.io/badge/luiz--otavio--mendes-0077B5?style=for-the-badge&logoColor=white&logo=Linkedin&link=https://www.linkedin.com/in/luiz-otavio-mendes"/>
   </a>
   <a target="_blank" href="mailto:lotavio18@hotmail.com">
-    <img alt="Outlook" src="https://img.shields.io/badge/-lotavio18@hotmail.com-0078D4?style=for-the-badge&logoColor=white&logo=microsoft-outlook&link=mailto:lotavio18@hotmail.com"/>
+    <img alt="Outlook" src="https://img.shields.io/badge/lotavio18@hotmail.com-0078D4?style=for-the-badge&logoColor=white&logo=microsoft-outlook&link=mailto:lotavio18@hotmail.com"/>
   </a>
   <a target="_blank" href="https://github.com/Luizhttps">
-    <img alt="GitHub" src="https://img.shields.io/badge/-Luizhttps-330F63?style=for-the-badge&label=Follow&logo=github"/>
+    <img alt="GitHub" src="https://img.shields.io/badge/Luizhttps-330F63?style=for-the-badge&label=Follow&logo=github&link=https://github.com/Luizhttps"/>
   </a>
 </span>
 
