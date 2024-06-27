@@ -53,15 +53,11 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logoColor=black&logo=linux"/>
 </span>
 
-<h4>In learning</h4>
-<span>
-  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logoColor=white&logo=python"/>
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logoColor=white&logo=django"/>
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logoColor=white&logo=pandas"/>
-  <img alt="Cassandra" src="https://img.shields.io/badge/Cassandra-1c81a0?style=for-the-badge&logoColor=white&logo=apache-cassandra"/>
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-e46e2e?style=for-the-badge&logoColor=white&logo=Jupyter"/>
-</span>
-
+<!--   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logoColor=white&logo=python"/> -->
+<!--   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logoColor=white&logo=django"/> -->
+<!--   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logoColor=white&logo=pandas"/> -->
+<!--   <img alt="Cassandra" src="https://img.shields.io/badge/Cassandra-1c81a0?style=for-the-badge&logoColor=white&logo=apache-cassandra"/> -->
+<!--   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-e46e2e?style=for-the-badge&logoColor=white&logo=Jupyter"/> -->
 
 <h3>📬 Contact Me</h3>
 <span>
